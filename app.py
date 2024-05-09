@@ -25,6 +25,8 @@ def main():
 # git fetch origin # command pro reseni issues (stahnuti vetvi z githubu)
 # git checkout 2-deleni-neni-bezpecne (checkout je stary univerzalni command na vice veci, lepsi je git branch) # prepnuti do urciteho issue (vetve)
 # git switch main # prepinani vetvi napr do main
+# git stash  #vymaze necomitly (ne)ulozeny kod protoze se jinak nemuzu switchnout
+# vetve - alternativni verze kodu , muzu mezi nimi prepinat 
 
 # nejlepší je v práci v teamu na začátku práce vždy pullnout predchozi praci druheho z githubu aby se predeslo konfliktum
 
