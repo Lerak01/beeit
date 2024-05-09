@@ -1,3 +1,6 @@
+def vydel(a: float, b: float) -> float:
+  return a/b
+
 def odecti (a: float, b: float) -> float:
   return a - b
 
