@@ -1,3 +1,6 @@
+def odecti (a: float, b: float) -> float:
+  return a - b
+
 def secti (a: float, b: float) -> float:
   return a + b
 
