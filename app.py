@@ -24,6 +24,7 @@ def main():
 # git push  # pushne to do githubu z lokalni databaze
 # git fetch origin # command pro reseni issues (stahnuti vetvi z githubu)
 # git checkout 2-deleni-neni-bezpecne (checkout je stary univerzalni command na vice veci, lepsi je git branch) # prepnuti do urciteho issue (vetve)
+# git branch #ukaze mi aktualni vetev
 # git switch main # prepinani vetvi napr do main
 # git stash  #vymaze necomitly ulozeny kod protoze se jinak nemuzu switchnout
 # vetve - alternativni verze kodu , muzu mezi nimi prepinat 
