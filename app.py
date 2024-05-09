@@ -17,3 +17,6 @@ def main():
 # git add app.py #prepise app.py v pocitaci  
 # git commit -am "pridal jsem funcki na odecitani" # vytvori a prepise commit a koment v pocitaci(prikaz na vsechno)
 # git push  # pushne to do githubu z lokalni databaze
+
+
+# nejlepší je v práci v teamu na začátku práce vždy pullnout predchozi praci druheho z githubu aby se predeslo konfliktum
