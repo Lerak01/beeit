@@ -27,7 +27,12 @@ def main():
 # git branch #ukaze mi aktualni vetev
 # git switch main # prepinani vetvi napr do main
 # git stash  #vymaze necomitly ulozeny kod protoze se jinak nemuzu switchnout
-# vetve - alternativni verze kodu , muzu mezi nimi prepinat 
+# vetve - alternativni verze kodu , muzu mezi nimi prepinat
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# POZOR NA NEULOŽENÉ ZMĚNY A SWITCHOVANI VETVI, VZNIKNE KOLIZE MEZI VERZEMI !!!!!!!!!!!!!!!!!!!!!!!!!! 
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 # nejlepší je v práci v teamu na začátku práce vždy pullnout predchozi praci druheho z githubu aby se predeslo konfliktum
 
