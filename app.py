@@ -28,6 +28,7 @@ def main():
 # git switch main # prepinani vetvi napr do main
 # git stash  #vymaze necomitly ulozeny kod protoze se jinak nemuzu switchnout
 # vetve - alternativni verze kodu , muzu mezi nimi prepinat
+# git merch 2-deleni-neni-bezpecne #slucovani vetvi (neni to idealni)
 
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # POZOR NA NEULOŽENÉ ZMĚNY A SWITCHOVANI VETVI, VZNIKNE KOLIZE MEZI VERZEMI !!!!!!!!!!!!!!!!!!!!!!!!!! 
